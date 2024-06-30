@@ -3,3 +3,6 @@
 ``` javascript
 const welcome = "It's an intro to markdown"
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
